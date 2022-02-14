@@ -1,0 +1,13 @@
+body{
+      background-color:rgb(9, 2, 70);
+
+}
+.foo{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 80%;
+    margin: auto;
+    margin-top: 10rem;
+
+}
